@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Interactive Storytelling | Codrops</title>
+    <title>Tropikoz.ru</title>
     <meta name="description" content="An interactive journey where a Canvas map path is animated according to the content that is scrolled on the page. By Lucas Bebber." />
     <meta name="keywords" content="svg map, animated, path, journey, story, article, canvas, images, plane, web design" />
     <meta name="author" content="Lucas Bebber for Codrops" />
@@ -20,14 +20,10 @@
 <body>
 <div class="main">
     <header class="codrops-header">
-        <div class="codrops-links">
-            <a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/ShazamButtonEffect/" title="Previous Demo"><span>Previous Demo</span></a>
-            <a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=25667" title="Back to the article"><span>Back to the Codrops article</span></a>
-        </div>
-        <h1 class="header-title"><span class="header-title__main">The Wild Path</span> <span class="header-title__part">An Icelandic Adventure</span> <span class="header-title__sub">An interactive storytelling experiment with Canvas. <br />Photo courtesy of <a href="http://instagram.com/danrubin/">Dan Rubin</a>.</span></h1>
+        <h1 class="header-title"><span class="header-title__main">ТРОПИКОЗ</span> <span class="header-title__part">A Life Long Adventure</span></h1>
     </header>
     <div class="intro">
-        <blockquote><em>“Twenty years from now you will be more disappointed by the things you didn’t do <br/>than by the ones you did do.”</em><span>Mark Twain</span></blockquote>
+        <blockquote><em>“Через 20 лет вы будете больше разочарованы теми вещами, которые вы не делали, чем теми, которые вы сделали. Так отчальте от тихой пристани. Почувствуйте попутный ветер в вашем парусе. Двигайтесь вперед, действуйте, открывайте!”</em><span>Mark Twain</span></blockquote>
     </div>
     <div class="container"></div>
     <div class="text">
