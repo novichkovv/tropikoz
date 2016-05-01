@@ -1,0 +1,46 @@
+.banner-text > h2 {
+    color: #573c42 !important;
+}
+.btn.see-more {
+    color: #573c42 !important;
+    border-color: #573c42 !important;;
+}
+.btn.see-more:active, .btn.see-more:hover {
+    color: #fff !important;
+}
+.contact-info {
+    max-width: 450px;
+}
+.sidebar-child {
+    margin-left: 40px;
+}
+.sidebar-child {
+    list-style: circle;
+    display: none;
+}
+.sidebar-plus-btn {
+    background: url('../../images/frontend/main/plus-blue.png');
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 30px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.sidebar-minus-btn {
+    background: url('../../images/frontend/main/minus-blue.png');
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 30px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.validate-message {
+    font-size: 18px;
+    color: red;
+    display: none;
+}
+#comments {
+    margin-top: 0 !important;
+}
